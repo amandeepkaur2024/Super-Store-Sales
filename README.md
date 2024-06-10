@@ -3,7 +3,7 @@ SuperStore SalesUS specializes in analyzing retail data from the United States, 
 
 ![image](https://github.com/amandeepkaur2024/Super-Store-Sales/assets/169684721/cefc3782-71b6-48a2-8bf7-08552559139d)
 
-**Objective:**<br>
+**Objective**<br>
 Super Sales Store aims to contribute to the success of businesses by utilizing advanced data analysis techniques, particularly focusing on time series analysis. Through this, our objective is to provide valuable insights and accurate sales forecasting, empowering decision-makers to optimize operations, enhance profitability, and achieve sustainable growth.
 
 **Here, are the operations that I performed to develop this Dashboard**
@@ -31,7 +31,7 @@ Super Sales Store aims to contribute to the success of businesses by utilizing a
 - Sales by Category and Subcategory: Segmenting sales data by product categories and subcategories, identifying top-performing product lines and areas for diversification.
 - Profit and Sales by State: Analyzing revenue and profitability metrics at the state level, guiding targeted marketing efforts and resource allocation strategies for regional markets.
 
-**Sales Forecast - 15 Days** 
+**Sales Forecast - 15 Days**<br>
 Utilizing predictive models to forecast revenue for the upcoming 15-day period, assisting in short-term decision-making and resource allocation.
 
 **Key Insights for Forecasting Super Store Sales**
