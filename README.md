@@ -34,7 +34,7 @@ Super Sales Store aims to contribute to the success of businesses by utilizing a
 **Sales Forecast - 15 Days** 
 Utilizing predictive models to forecast revenue for the upcoming 15-day period, assisting in short-term decision-making and resource allocation.
 
-Key Insights for Forecasting Super Store Sales**
+**Key Insights for Forecasting Super Store Sales**
 - Sales Forecast - 15 Days: Projected revenue for the upcoming 15-day period, aiding in short-term planning and inventory management.
 - Sales Forecast - 15 Days with Zoom Slider: Enhanced visualization of the 15-day sales forecast with adjustable zoom functionality, facilitating detailed analysis and trend identification.
 - Sum of Sales by State: Total sales revenue aggregated by state, providing a comprehensive overview of regional sales performance and market dynamics.
